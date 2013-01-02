@@ -3,5 +3,6 @@ public class Test2 {
 		System.out.println("This is the second test class");
 		System.out.println("This is the second test class2");
 		System.out.println("This is the second test class3");
+		System.out.println("This is the second test class4");
 	}
 }
